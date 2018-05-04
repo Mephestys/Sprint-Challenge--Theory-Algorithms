@@ -38,6 +38,6 @@ Basically a binary search tree.
 
 ## Exercise III.
 
-a)
+a) Best-case scenario, with no repeating elements, the running time should be O(n). In the worst case, O(n<sup>2</sup>).
 
-b)
+b) This would become a divide-and-conquer approach, meaning the run time should be O(log<sub>2</sub>(n)).
