@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="435.5" cy="134.5" rx="30" ry="30"/>
+	<text x="418.5" y="140.5" font-family="Times New Roman" font-size="20">start</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="54.5" cy="134.5" rx="30" ry="30"/>
+	<text x="33.5" y="140.5" font-family="Times New Roman" font-size="20">sleep</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="54.5" cy="442.5" rx="30" ry="30"/>
+	<text x="42.5" y="448.5" font-family="Times New Roman" font-size="20">eat</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="435.5" cy="442.5" rx="30" ry="30"/>
+	<text x="417.5" y="448.5" font-family="Times New Roman" font-size="20">hunt</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="740.5" cy="134.5" rx="30" ry="30"/>
+	<text x="718.5" y="140.5" font-family="Times New Roman" font-size="20">preen</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 453.605,158.396 A 235.701,235.701 0 0 1 453.605,418.604"/>
+	<polygon fill="black" stroke-width="1" points="453.605,418.604 462.19,414.694 453.851,409.174"/>
+	<text x="497.5" y="294.5" font-family="Times New Roman" font-size="20">hunger</text>
+	<polygon stroke="black" stroke-width="1" points="405.5,442.5 84.5,442.5"/>
+	<polygon fill="black" stroke-width="1" points="84.5,442.5 92.5,447.5 92.5,437.5"/>
+	<text x="198.5" y="463.5" font-family="Times New Roman" font-size="20">caught prey</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 80.235,119.1 A 346.253,346.253 0 0 1 409.765,119.1"/>
+	<polygon fill="black" stroke-width="1" points="80.235,119.1 89.65,119.691 84.892,110.895"/>
+	<text x="226.5" y="68.5" font-family="Times New Roman" font-size="20">tired</text>
+	<polygon stroke="black" stroke-width="1" points="84.5,134.5 405.5,134.5"/>
+	<polygon fill="black" stroke-width="1" points="405.5,134.5 397.5,129.5 397.5,139.5"/>
+	<text x="203.5" y="125.5" font-family="Times New Roman" font-size="20">waking up</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 47.041,413.446 A 561.076,561.076 0 0 1 47.041,163.554"/>
+	<polygon fill="black" stroke-width="1" points="47.041,163.554 40.385,170.24 50.134,172.467"/>
+	<text x="0.5" y="294.5" font-family="Times New Roman" font-size="20">full</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 407.082,432.894 A 666.453,666.453 0 0 1 69.848,160.274"/>
+	<polygon fill="black" stroke-width="1" points="69.848,160.274 69.857,169.708 78.332,164.4"/>
+	<text x="10.5" y="345.5" font-family="Times New Roman" font-size="20">tired, failed to catch prey</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 463.291,123.223 A 368.923,368.923 0 0 1 712.709,123.223"/>
+	<polygon fill="black" stroke-width="1" points="712.709,123.223 706.87,115.813 703.49,125.224"/>
+	<text x="566.5" y="92.5" font-family="Times New Roman" font-size="20">filthy</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 457.92,114.604 A 213.391,213.391 0 0 1 718.08,114.604"/>
+	<polygon fill="black" stroke-width="1" points="718.08,114.604 714.786,105.763 708.69,113.691"/>
+	<text x="565.5" y="61.5" font-family="Times New Roman" font-size="20">bored</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 449.956,108.259 A 166.532,166.532 0 0 1 726.044,108.259"/>
+	<polygon fill="black" stroke-width="1" points="726.044,108.259 725.714,98.831 717.425,104.424"/>
+	<text x="531.5" y="25.5" font-family="Times New Roman" font-size="20">mating season</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 464.625,141.495 A 155.505,155.505 0 0 1 464.625,435.505"/>
+	<polygon fill="black" stroke-width="1" points="464.625,435.505 473.818,437.623 470.558,428.17"/>
+	<text x="574.5" y="294.5" font-family="Times New Roman" font-size="20">saw movement</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 711.031,140.106 A 737.301,737.301 0 0 1 464.969,140.106"/>
+	<polygon fill="black" stroke-width="1" points="464.969,140.106 472.023,146.371 473.692,136.511"/>
+	<text x="554.5" y="171.5" font-family="Times New Roman" font-size="20">all clean</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 741.658,164.464 A 283.047,283.047 0 0 1 465.473,443.365"/>
+	<polygon fill="black" stroke-width="1" points="465.473,443.365 473.592,448.17 473.35,438.173"/>
+	<text x="665.5" y="380.5" font-family="Times New Roman" font-size="20">saw movement</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 72.051,418.171 A 876.875,876.875 0 0 1 408.034,146.563"/>
+	<polygon fill="black" stroke-width="1" points="72.051,418.171 80.846,414.758 72.837,408.77"/>
+	<text x="40.5" y="252.5" font-family="Times New Roman" font-size="20">food already available</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 429.531,413.102 A 700.268,700.268 0 0 1 429.531,163.898"/>
+	<polygon fill="black" stroke-width="1" points="429.531,163.898 423.188,170.881 433.028,172.66"/>
+	<text x="259.5" y="294.5" font-family="Times New Roman" font-size="20">failed to catch prey</text>
+</svg>
