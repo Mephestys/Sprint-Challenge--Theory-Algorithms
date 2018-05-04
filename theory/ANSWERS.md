@@ -8,7 +8,8 @@
 
 ## State Machines
 
-1. **VT-100 terminal:**
-  * **ESC[12;45f**
+1. **Regex State Machine:** [regex-state-machine.svg](regex-state-machine.svg)
 
-  * **ESC[1m**
+1. **Lion State Machine:** [lion-state-machine.svg](lion-state-machine.svg)
+
+1. **VT-100 Terminal Escape Sequences:** `/(ESC|\e)\[(\d{1,};?m?)(\d{1,}f?)?/g`
