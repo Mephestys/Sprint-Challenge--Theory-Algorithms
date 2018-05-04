@@ -13,3 +13,5 @@
 1. **Lion State Machine:** [lion-state-machine.svg](lion-state-machine.svg)
 
 1. **VT-100 Terminal Escape Sequences:** `/(ESC|\e)\[(\d{1,};?m?)(\d{1,}f?)?/g`
+
+1. **VT-100 State Machine:** [VT-100-state-machine.svg](VT-100-state-machine.svg)
