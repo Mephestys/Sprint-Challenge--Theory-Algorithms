@@ -16,7 +16,21 @@ g) O(n)
 
 ## Exercise II.
 
-a)
+a) 
+```js
+const maxDiff = (arr) => {
+  let min = arr[0];
+  let max = arr[0];
+
+  for (let i = 0; i < arr.length; i++) {
+    let val = arr[i];
+
+    if (val < min) min = val;
+    if (val > max) max = val;
+  }
+  return max - min;
+}
+```
 
 b)
 
