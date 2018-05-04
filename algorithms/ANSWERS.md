@@ -32,7 +32,9 @@ const maxDiff = (arr) => {
 }
 ```
 
-b)
+b) Start by dropping an egg from the middle floor (or if the floors are even numbered, start from the lowest of the upper floors, i.e. in a building of 4 floors, start from floor 3). If the egg breaks, move down to the middle floor of the remaining lower floors, otherwise if it does not break, move to the middle floor of the remaining upper floors. Continue until reaching the one floor where the egg does not break, but does break from the floor just above it.
+
+Basically a binary search tree.
 
 ## Exercise III.
 
